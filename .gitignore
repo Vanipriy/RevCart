@@ -1,9 +1,0 @@
-node_modules/
-dist/
-.angular/
-.idea/
-target/
-*.log
-*.jar
-.DS_Store
-Thumbs.db
