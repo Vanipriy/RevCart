@@ -1,0 +1,18 @@
+# Spring Boot
+target/
+*.class
+*.jar
+*.war
+*.log
+.idea/
+*.iml
+
+# Angular
+node_modules/
+dist/
+.angular/
+*.cache/
+
+# System
+.DS_Store
+Thumbs.db
